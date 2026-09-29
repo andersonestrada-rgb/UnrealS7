@@ -1,0 +1,338 @@
+[
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/UnrealS7.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/UnrealS7Character.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/UnrealS7GameMode.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/UnrealS7PlayerController.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/AI/CombatAIController.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/AI/CombatEnemy.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/AI/EnvQueryContext_Danger.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/CombatCharacter.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/CombatGameMode.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/CombatPlayerController.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Gameplay/CombatDummy.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Interfaces/CombatActivatable.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Interfaces/CombatAttacker.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/Interfaces/CombatDamageable.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Combat/UI/CombatLifeBar.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Platforming/PlatformingCharacter.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Platforming/PlatformingGameMode.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_Platforming/PlatformingPlayerController.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/SideScrollingCameraManager.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/SideScrollingCharacter.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/SideScrollingGameMode.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/SideScrollingPlayerController.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	},
+	{
+		"file": "/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/Source/UnrealS7/Variant_SideScrolling/UI/SideScrollingUI.cpp",
+		"arguments": [
+			"/mnt/Biblioteca/Motores/Unreal Engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/Biblioteca/Proyectos/Unreal/UnrealS7/.vscode/compileCommands_UnrealS7/UnrealS7.0.rsp"
+		],
+		"directory": "/mnt/Biblioteca/Motores/Unreal Engine/Engine/Source"
+	}
+]
